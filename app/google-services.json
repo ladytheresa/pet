@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162094645916",
+    "project_id": "petclock-5a28a",
+    "storage_bucket": "petclock-5a28a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162094645916:android:86be19bd098d382cef6359",
+        "android_client_info": {
+          "package_name": "umn.ac.pet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162094645916-t6um6hitmfsh6i06804i1561gnllv712.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH7t64lMCkZTxDHHlW1qSo5Ahf11sFyaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162094645916-t6um6hitmfsh6i06804i1561gnllv712.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
